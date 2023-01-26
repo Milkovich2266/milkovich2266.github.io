@@ -1,0 +1,14 @@
+body {
+    font-family:"Times New Roman";
+    line-height: 1.1;
+    background-color: #F0F8FF;
+}
+.position {
+    text-decoration: underline;
+
+}
+
+#experience {
+    color:rgb(72, 4, 4);
+    font-size: 20px;
+}
